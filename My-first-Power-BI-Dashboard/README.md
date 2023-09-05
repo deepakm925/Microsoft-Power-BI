@@ -1,4 +1,4 @@
-# Creating a POWER BI DASHBOARD- Analyzing Sales, Products, and Factors Influencing Contoso Corporation. 
+# AN INTERACTIVE POWER BI DASHBOARD- Analyzing Sales, Products, and Factors Influencing Contoso Corporation. 
 
 ## INTRODUCTION
 This was one of my first Dashboards created in Power BI Desktop and uploaded to the Power BI service. The data that was used was a fictitious company called Contoso-Corporation created by Microsoft Learn Corporation. The company's dataset/data can be found [here](https://learn.microsoft.com/en-us/microsoft-365/enterprise/contoso-overview?view=o365-worldwide)
