@@ -1,4 +1,6 @@
-# Power-BI
+  ![Power-BI-Logo](https://images.squarespace-cdn.com/content/v1/5d28ebb6fbc5cd000177d261/1615472077362-HP3YQY01JM8KITIJR51Z/Power-BI-Logo.png?format=1500w)
+
+# INTRODUCTION
 
 Here is a repository of my analysis and projects done in Power Business Intelligence (BI). Analyzing various datasets to derive a solution. 
 
