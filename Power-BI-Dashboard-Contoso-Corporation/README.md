@@ -28,10 +28,13 @@ The resources folder contains the following:
 (*Each point will be elaborated below...*)
 
 
-### 1. Firstly, analyzing the General Overview of the Dashboard and looking at Product Price, Sales, and Sum of sales
+### 1. Firstly, analyzing the General Overview of the Dashboard and looking at Product Price, Sales, and Sum of sales: 
 
 ![Viewing A Dash Board](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Dashboard-Contoso-Corporation/resources/overall__dashboard_view.gif)
 ---
 
 
+### Secondly, looking at the **Key Influencers** for Contoso Corporation: 
+
+![Viewing and interacting DashBoard](
 
