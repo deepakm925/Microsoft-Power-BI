@@ -1,3 +1,4 @@
+  ![BIlogo](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Dashboard-Contoso-Corporation/resources/bi-logo.png)
 # AN INTERACTIVE POWER BI DASHBOARD- Analyzing Sales, Products, and Factors Influencing Contoso Corporation. 
 
 ## INTRODUCTION
