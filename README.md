@@ -24,7 +24,7 @@ Here is a repository of my analysis and projects done in Power Business Intellig
 - Microsoft SQL Server 
 
 
-##### NOTE
+### NOTE
 
 Due to Dashboards and Applications not being able to be uploaded to Github. To display the interactive experience Media GIFs were used.
 
