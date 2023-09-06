@@ -11,7 +11,7 @@ Here is my repository of my analysis and projects done in Power Business Intelli
 ### SOFTWARE AND TOOLS 
 
 - Power BI Desktop Application
-- 
+  
 - Power BI Online service
 
 - Microsoft 365 Developer(s) Account
