@@ -9,7 +9,9 @@ The resources folder contains the following:
 - The Contoso dataset (XLSX format)
 - The Power BI (PBIX file)
 - Samples/Snippets of GIFs of the Dashboard and its interactions
-- Finally, feel free to access the full Dashboard and interact  with it! This can be found in my personal Power BI service here: [Deepak's-BI-Workspace](https://app.powerbi.com/groups/me/dashboards/cab21e89-3704-4fb5-a71c-e5137eb7f047?ctid=da17df9a-8c49-40fc-a1da-012aca883f37&experience=power-bi). NOTE: Permission may be required to access. 
+- Finally, feel free to access the full Dashboard and interact  with it! This can be found in my personal Power BI service here: [Deepak's-BI-Workspace](https://app.powerbi.com/groups/me/dashboards/cab21e89-3704-4fb5-a71c-e5137eb7f047?ctid=da17df9a-8c49-40fc-a1da-012aca883f37&experience=power-bi).
+
+NOTE: Permission may be required to access. 
 
 ### Software and Tools used:
 - Power BI Desktop
@@ -43,4 +45,8 @@ The resources folder contains the following:
 ### Third, looking at the **Top Segments** for Contoso Corporation
 
 ![Interacting with Dashboard](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Dashboard-Contoso-Corporation/resources/top_segments_dashboard.gif)
+
+### Finally, we can ask a question about our data from the **Q & A** feature:
+
+![Q-&-A-Dashboard](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Dashboard-Contoso-Corporation/resources/q%26a_dashboard.gif)
 
