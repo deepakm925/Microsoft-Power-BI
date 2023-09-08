@@ -52,5 +52,10 @@ The things that will be looked at in this project are:
 ### Using Time series filters to interact with Time series data across visualizations
 ![slicer](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/time-series.gif)
 
+### Using Drillthrough on data within a Matrix visualization
+![drillthrough](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/drill-through.gif)
+
+
+
 
 
