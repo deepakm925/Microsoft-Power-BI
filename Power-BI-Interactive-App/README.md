@@ -42,10 +42,10 @@ The things that will be looked at in this project are:
 
 ![overall](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/overall-bi-app.gif)
 
-### Using Slicers as a list to interact across multiple visualization(s)
-![slicers-list](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/slicer-list.gif)
-
-
 
 ### Using Slicers with Geographical Data on World Map Visualization
 ![mapslicer](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/mapslicer.gif)
+
+### Using Slicers as a list to interact across multiple visualization(s)
+![slicers-list](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/slicer-list.gif)
+
