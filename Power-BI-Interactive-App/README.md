@@ -12,10 +12,10 @@ The Data is a sample dataset that can be found on the Microsoft website itself [
 
 ### EXPECTATIONS/ WHAT TO EXPECT
 The things that will be looked at in this project are:
-- The general interaction and display of a Power BI App and how to interact with it while using Buttons. 
-- Using Time series filters to interact with Time series data across visualizations
-- Using Slicers to interact across multiple visualizations
+- The general interaction and display of a Power BI App and how to interact with it while using Buttons.
 - Using Slicers with Geographical Data on World Map Visualization
+- Using Slicers as a list to interact across multiple visualization(s)
+- Using Time series filters to interact with Time series data across visualizations
 - Using Drillthrough on the data
 - Using a Power BI App on a Mobile Device. 
 
