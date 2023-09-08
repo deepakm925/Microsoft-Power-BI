@@ -49,3 +49,8 @@ The things that will be looked at in this project are:
 ### Using Slicers as a list to interact across multiple visualization(s)
 ![slicers-list](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/slicer-list.gif)
 
+### Using Time series filters to interact with Time series data across visualizations
+![slicer](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/slicer-list.gif)
+
+
+
