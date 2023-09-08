@@ -39,6 +39,7 @@ The things that will be looked at in this project are:
 ## ANALYSIS AND OBSERVATIONS
 
 ### General Interaction and View of the App while navigating the pages with Buttons. 
+
 ![overall](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/overall-bi-app.gif)
 
 ### Using Slicers as a list to interact across multiple visualization(s)
