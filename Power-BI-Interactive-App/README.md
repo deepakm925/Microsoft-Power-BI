@@ -16,7 +16,7 @@ The things that will be looked at in this project are:
 - Using Slicers with Geographical Data on World Map Visualization
 - Using Slicers as a list to interact across multiple visualization(s)
 - Using Time series filters to interact with Time series data across visualizations
-- Using Drillthrough on the data
+- Using Drillthrough on data within a Matrix visualization
 - Using the Power BI App on a Mobile Device and using the Q and A feature. 
 
 ### ACCESS TO MY MICROSOFT WORKSPACE
@@ -57,7 +57,7 @@ The things that will be looked at in this project are:
 
 
 ### Using the Power BI App on a Mobile Device and using the Q and A feature
-[bi-mobile-app](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/bi-mobile-app.gif)
+![bi-mobile-app](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/bi-mobile-app.gif)
 
 
 
