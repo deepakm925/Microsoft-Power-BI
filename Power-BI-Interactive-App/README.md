@@ -17,7 +17,7 @@ The things that will be looked at in this project are:
 - Using Slicers as a list to interact across multiple visualization(s)
 - Using Time series filters to interact with Time series data across visualizations
 - Using Drillthrough on the data
-- Using a Power BI App on a Mobile Device. 
+- Using the Power BI App on a Mobile Device and using the Q and A feature. 
 
 ### ACCESS TO MY MICROSOFT WORKSPACE
 
@@ -56,6 +56,8 @@ The things that will be looked at in this project are:
 ![drillthrough](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/drill-through.gif)
 
 
+### Using the Power BI App on a Mobile Device and using the Q and A feature
+[bi-mobile-app](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/bi-mobile-app.gif)
 
 
 
