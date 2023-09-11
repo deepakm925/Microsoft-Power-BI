@@ -4,7 +4,7 @@
 
 # INTERACTIVE POWER BI APP
 
-## SAMPLE SCREENSHOTS
+## SCREENSHOT SAMPLES
 <img src = "https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/screenshot1.png" width ="300" /> <img src = "https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/screenshot2.png" width ="300" /> <img src = "https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/screenshot3.png" width ="300" /> 
 
 ## DESCRIPTION
