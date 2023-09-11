@@ -4,6 +4,9 @@
 
 # INTERACTIVE POWER BI APP
 
+## SAMPLE SCREENSHOTS
+<img src = "https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/screenshot1.png" width ="300" /> <img src = "https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/screenshot2.png" width ="300" /> <img src = "https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Interactive-App/resources/screenshot3.png" width ="300" /> 
+
 ## DESCRIPTION
 Here, we will be analyzing data from a company called Contoso Corporation. Contoso consists of many manufacturers of various products and targets its customer categories in some countries around the world. A Power BI Application is the chosen method to display the findings in the most appealing way and as best as possible. 
 
