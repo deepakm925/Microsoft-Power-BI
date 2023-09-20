@@ -24,5 +24,6 @@ Setting up a Python environment designated for Power BI using the Anaconda appli
 - Python Programming Language
 - Anaconda Applications (i.e. Spyder, Jupyter-Notebook)
 - Anaconda Shell
+- Pandas Library
 - Matplotlib Python Library
 - Seaborn Python Library
