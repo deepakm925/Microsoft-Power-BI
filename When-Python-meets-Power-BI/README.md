@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/resources/heading-python.png"?format=1500w/>
-</p>  
+![HeadingPython](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/resources/heading-python.png)
 
 ## WHEN POWER BI MEETS PYTHON
 
