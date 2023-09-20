@@ -19,7 +19,7 @@ Setting up a Python environment designated for Power BI using the Anaconda appli
 
 #### <ins> Creating and Running a report within Anaconda's Jupyter-Notebook BI</ins>
 
-### SOFTWARE AND TOOLS APPLIED
+## SOFTWARE AND TOOLS APPLIED
 - Power BI Desktop Application
 - Python Programming Language
 - Anaconda Applications (i.e. Spyder, Jupyter-Notebook)
