@@ -10,4 +10,5 @@ Here we will see how interactive and dynamic the Power BI application is by impo
 1. First, create a Python environment using Anaconda
 2. Updating the environment with the necessary libraries that will be used, then setting up an environment in Power BI
 3. Importing the Python script and accessing the CarMax CSV dataset by using Pandas
-4. Cleaning, Tidying, and Transforming the dataset
+4. Cleaning, Tidying, and Transforming the dataset using Power Query Editor
+5. 
