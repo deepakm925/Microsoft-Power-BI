@@ -22,7 +22,7 @@ To experience and actually interact with the Dashboards and Applications. The UR
 - Integrating Python Programming Language by importing and visualizing data in Power BI Desktop
 
 
-### SOFTWARE AND TOOLS APPLIED
+## SOFTWARE AND TOOLS APPLIED
 
 - Power BI Desktop Application
   
