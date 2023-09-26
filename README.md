@@ -23,7 +23,7 @@ To experience and actually interact with the Dashboards and Applications. The UR
 
 
 ## PROJECTS IN THIS FOLDER
-#### <ins>Interactive Power BI Dashboard -Contoso Corporation</ins> *(Go to Project Page [here](https://github.com/deepakm925/Power-BI/tree/main/Power-BI-Dashboard-Contoso-Corporation)*
+#### <ins>Interactive Power BI Dashboard -Contoso Corporation</ins> *[Go to Project Page[here](https://github.com/deepakm925/Power-BI/tree/main/Power-BI-Dashboard-Contoso-Corporation)*]
 
 ## SOFTWARE AND TOOLS APPLIED
 
