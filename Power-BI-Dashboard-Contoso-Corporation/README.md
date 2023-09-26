@@ -36,8 +36,8 @@ NOTE: Permission may be required to access.
 
 ### First, analyze the General Overview of the Dashboard and look at Product Price, Sales, and Sum of sales: 
 
-![Viewing A Dash Board](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Dashboard-Contoso-Corporation/resources/overall__dashboard_view.gif)
----
+![Viewing](https://github.com/deepakm925/Power-BI/blob/main/Power-BI-Dashboard-Contoso-Corporation/resources/overall__dashboard_view.gif)
+
 
 
 ### Secondly, looking at the **Key Influencers** for Contoso Corporation: 
