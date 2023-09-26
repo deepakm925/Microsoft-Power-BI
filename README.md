@@ -13,11 +13,13 @@ To experience and actually interact with the Dashboards and Applications. The UR
 *For security reasons. Permission will be required with my approval to grant a viewer access.*
 
 
-### WHAT TO EXPECT...
+## WHAT TO EXPECT...
 
+### Projects in this folder
 - BI Reports Created using various tools from Power BI such as DAX implementations, visualizations, and Data Cleaning
 - Interactive Dashboard(s) created from Reports using Power BI Online Service. Dashboards portraiting solutions and visualizations to the analysis
 - Interactive Power BI Application(s) portraying different end products of the analysis.
+- Integrating Python Programming Language by importing and visualizing data in Power BI Desktop
 
 
 ### SOFTWARE AND TOOLS APPLIED
