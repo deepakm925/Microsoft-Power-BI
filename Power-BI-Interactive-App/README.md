@@ -13,7 +13,7 @@ Here, we will be analyzing data from a company called Contoso Corporation. Conto
 ##### THE DATASET
 The Data is a sample dataset that can be found on the Microsoft website itself [Access-sample-database](https://go.microsoft.com/fwlink/?linkid=2120368). The dataset is a fictitious dataset. The database is in a Microsoft Access Database (ADB) format. Therefore will require Access Database Engine to be installed on the working PC before attempting to import the data into Power BI Desktop. Access Database Engine can be downloaded from the Microsoft Official site here : [Access-Database-Engine-Download](https://www.microsoft.com/en-US/download/details.aspx?id=54920)
 
-### EXPECTATIONS/ WHAT TO EXPECT
+##  WHAT TO EXPECT...
 The things that will be looked at in this project are:
 - The general interaction and display of a Power BI App and how to interact with it while using Buttons.
 - Using Slicers with Geographical Data on World Map Visualization
@@ -30,7 +30,7 @@ The things that will be looked at in this project are:
 
 *(For security reasons. Permission will be required with my approval to grant viewer access.)*
 
-#### Software and Tools Used
+## SOFTWARE AND TOOLS USED
 - Power BI Desktop
 - Power BI Online Service
 - Microsoft 365 Developer(s) Account
