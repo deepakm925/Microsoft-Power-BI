@@ -7,7 +7,8 @@
 Here we will see how interactive and dynamic the Power BI application is by importing, cleaning, and visualizing data all by using Python and its respective libraries. 
 
 ## WHAT TO EXPECT...
-1. First, create a Python environment using Anaconda Navigator and install all the necessary Python libraries such as `pandas`, `matplotlib` and `seaborn`. 
+1. First, create a Python environment using Anaconda Navigator and install all the necessary Python libraries.
+2. Update the Python's Environment directory to work within Power BI Desktop then import and load the data from the Python script using Python commands.  
 
 
 ## VISUAL IMPLEMENTATION OF THE STEPS WITH GIFS
