@@ -12,5 +12,14 @@ Here we will see how interactive and dynamic the Power BI application is by impo
 
 ## VISUAL IMPLEMENTATION OF THE STEPS WITH GIFS
 
-First, we will set up the Python Environment within Anaconda. Anaconda is very quick and efficient in creating and managing environments. The environment created will be called `power-bi`. We will then import the necessary libraries that will be used. For this project we will stick with `pandas`, `matplotlib`, and `seaborn`. 
+### <ins> **STEP ONE**</ins>
+
+Here we will set up the Python Environment within Anaconda. Anaconda is very quick and efficient in creating and managing environments. The environment created will be called `power-bi`. We will then import the necessary libraries that will be used. For this project we will stick with `pandas`, `matplotlib`, and `seaborn`. 
 ![Setting-up-env](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/setting-up-python%20environment.gif)
+
+
+### <ins> **STEP TWO**</ins>
+
+Now that we have a specialized Python Environment created, it is required to set up the environment's directory within Power BI Desktop. This will use the designated environment and its libraries imported. We will then Get data using the Python Scripting feature by importing the Carmax CSV file using `Pandas` to read the CSV file. 
+![setting-up-python-with-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/getting-data-with%20python-in-Power%20BI.gif)
+
