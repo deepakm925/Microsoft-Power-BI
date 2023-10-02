@@ -24,3 +24,8 @@ Here we will set up the Python Environment within Anaconda. Anaconda is very qui
 Now that we have a specialized Python Environment created, it is required to set up the environment's directory within Power BI Desktop. This will use the designated environment and its libraries imported. We will then Get data using the Python Scripting feature by importing the Carmax CSV file using `Pandas` to read the CSV file. 
 ![setting-up-python-with-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/getting-data-with%20python-in-Power%20BI.gif)
 
+
+### <ins> **STEP THREE**</ins>
+In this step, we will get our hands dirty to clean up the dataset. Power BI Query Editor will be used to clean the dataset. 
+
+![cleaning-py-bi-1]
