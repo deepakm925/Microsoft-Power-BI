@@ -17,7 +17,7 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 
 Setting up a Python environment designated for Power BI using the Anaconda application. Secondly, importing data from a *CSV* file from a Python script, while Using both BI and Python tools to clean, tidy, and transform the data. Finally, using Python code to create visualizations from Python libraries such as Matplotlib and Seaborn within BI Desktop. 
 
-#### <ins> Creating and Running a report within Anaconda's Jupyter-Notebook BI</ins> *Go ro Project Page [here](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Integrating-a-Power-BI-Report-into-Anaconda's-Jupyter-Notebook)*
+#### <ins> Creating and Running a report within Anaconda's Jupyter-Notebook BI</ins> *(Go ro Project Page [here](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Integrating-a-Power-BI-Report-into-Anaconda's-Jupyter-Notebook))*
 
 ## SOFTWARE AND TOOLS APPLIED
 - Power BI Desktop Application
