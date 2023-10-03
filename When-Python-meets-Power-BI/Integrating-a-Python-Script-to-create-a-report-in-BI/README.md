@@ -32,3 +32,7 @@ In this step, we will get our hands dirty to clean up the dataset. *Power BI Que
 - first, we will select the columns wanted for the analysis by selecting `Choose Columns`
 - second, we will view the `column quality` for missing, error, and null values. 
 ![cleaning-py-bi-1](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-1.gif)
+
+##### Cleaning Part 2
+
+![cleaning-py-bi-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-2.gif)
