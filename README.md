@@ -18,8 +18,8 @@ To experience and actually interact with the Dashboards and Applications. The UR
 - BI Reports Created using various tools from Power BI such as DAX implementations, visualizations, and Data Cleaning
 - Interactive Dashboard(s) created from Reports using Power BI Online Service. Dashboards portraiting solutions and visualizations to the analysis
 - Interactive Power BI Application(s) portraying different end products of the analysis.
-- Integrating Python by importing and visualizing data in Power BI Desktop from a Python script
-- Using Anaconda's Jupyter Notebook to import, create, and modify Power BI reports. 
+- Integrating Python by importing and visualizing data in Power BI Desktop from a Python script using popular Python libraries. 
+- Embedding a Power BI report into Anaconda's Jupyter Notebook to Manage and Visualize data. 
 
 
 ## PROJECTS IN THIS REPOSITORY 
