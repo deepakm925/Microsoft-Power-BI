@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/resources/heading-python.png"/>
 
-  # INTEGRATING A PYTHON SCRIPT TO LOAD, CLEAN, VISUALIZE DATA IN POWER BI DESKTOP
+  # INTEGRATING A PYTHON SCRIPT, THEN LOADING, CLEANING, AND VISUALIZING DATA IN THE POWER BI DESKTOP
 
   ## DESCRIPTION
 Here we will see how interactive and dynamic the Power BI application is by importing, cleaning, and visualizing data all by using Python and its respective libraries. 
