@@ -36,5 +36,5 @@ In this step, we will get our hands dirty to clean up the dataset. *Power BI Que
 
 ##### Cleaning Part 2
 - Here, we notice the region column has state and city together, we want to maintain the region column but split the city and state. Therefore we duplicate the region column and then split by delimiter
-- 
+- then, once the columns are split we need to rename them `state` and `city` respectively
 ![cleaning-py-bi-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-2.gif)
