@@ -25,16 +25,17 @@ Now that we have a specialized Python Environment created, it is required to set
 ![setting-up-python-with-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/getting-data-with%20python-in-Power%20BI.gif)
 
 
-### <ins> **STEP THREE**</ins>
+### <ins> **STEP THREE: ClEANING AND TRANSFORMING**</ins>
 In this step, we will get our hands dirty to clean up the dataset. *Power BI Query Editor* will clean and transform the dataset. The Data Wrangling/Cleaning step was broken into two parts for simplicity and clarity. 
 
-##### Cleaning Part 1
+##### Part 1
 - first, we will select the columns wanted for the analysis by selecting `Choose Columns`
 - second, we will view the `column quality` for missing, error, and null values.
 - thirdly, we will select all columns and drop the null and empty values in each
 ![cleaning-py-bi-1](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-1.gif)
 
-##### Cleaning Part 2
-- Here, we notice the region column has state and city together, we want to maintain the region column but split the city and state. Therefore we duplicate the region column and then split by delimiter
+##### Part 2
+- Here, we notice the region column has state and city together, we want to maintain the region column but split the city and state. Therefore we duplicate the region column and then split it by delimiter
 - then, once the columns are split we need to rename them `state` and `city` respectively
+- the final step for the cleaning and transforming step is to check and drop null and empty values to maintain a consistent size of the dataset
 ![cleaning-py-bi-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-2.gif)
