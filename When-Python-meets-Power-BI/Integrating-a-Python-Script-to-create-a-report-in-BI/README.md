@@ -14,7 +14,7 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 2. Update the Python's Environment directory to work within Power BI Desktop then import and load the data from the Python script using Python commands.  
 
 
-## VISUAL IMPLEMENTATION OF THE STEPS WITH GIFS
+## IMPLEMENTATION OF THE STEPS 
 
 ### <ins> **STEP ONE**</ins>
 
@@ -26,7 +26,7 @@ Here we will set up the Python Environment within Anaconda. Anaconda is very qui
     pip install -U matplotlib
     pip install seaborn
 
-**Graphical implementation of Step:**
+**Visual Implementation:**
 ![Setting-up-env](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/setting-up-python%20environment.gif)
 
 
@@ -36,8 +36,16 @@ Now that we have a specialized Python Environment created, it is required to set
 
 **Code used:**
 
-    
+      # import all packages 
+      import pandas as pd
+      import matplotlib.pyplot as plt
+      import seaborn as sb
 
+      # Reading into the CSV file
+      data = "D:\Python-intergrated-with-BI\carmaxdata.csv"
+      carmax_data = pd.read_csv(data)
+    
+**Visual Implementation:**
 ![setting-up-python-with-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/getting-data-with%20python-in-Power%20BI.gif)
 
 
