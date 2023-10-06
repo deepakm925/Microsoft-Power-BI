@@ -12,7 +12,7 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 ## WHAT TO EXPECT...
 1. First, create a Python environment using Anaconda Navigator and install all the necessary Python libraries.
 2. Update the Python's Environment directory to work within Power BI Desktop then import and load the data from the Python script using Python commands.  
-
+3. Cleaning and Transforming the data in Power BI Desktop using the *Power QUery Editor* tool. (Implementation done in two parts for clarity!)
 
 ## IMPLEMENTATION OF THE STEPS 
 
