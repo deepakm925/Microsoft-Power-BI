@@ -6,6 +6,9 @@
   ## DESCRIPTION
 Here we will see how interactive and dynamic the Power BI application is by importing, cleaning, and visualizing data all by using Python and its respective libraries. 
 
+### Overview of the dataset
+The CarMax dataset is a CSV file, with at least one (1) million rows. The dataset is a web scrape of the CarMax website and details the daily inventory of cars between September 27, 2015, and June 14, 2017.
+
 ## WHAT TO EXPECT...
 1. First, create a Python environment using Anaconda Navigator and install all the necessary Python libraries.
 2. Update the Python's Environment directory to work within Power BI Desktop then import and load the data from the Python script using Python commands.  
@@ -15,9 +18,9 @@ Here we will see how interactive and dynamic the Power BI application is by impo
 
 ### <ins> **STEP ONE**</ins>
 
-Here we will set up the Python Environment within Anaconda. Anaconda is very quick and efficient in creating and managing environments. The environment created will be called `power-bi`. We will then import the necessary libraries that will be used. For this project we will stick with `pandas`, `matplotlib`, and `seaborn`. 
+Here we will set up the Python Environment within Anaconda. Anaconda is very quick and efficient in creating and managing environments. The environment created will be called `power-bi`. We will then import the necessary libraries that will be used. For this project, we will stick with `pandas`, `matplotlib`, and `seaborn`. 
 
-**Code for installation:**
+**Code used:**
 
     pip install pandas
     pip install -U matplotlib
@@ -30,6 +33,11 @@ Here we will set up the Python Environment within Anaconda. Anaconda is very qui
 ### <ins> **STEP TWO**</ins>
 
 Now that we have a specialized Python Environment created, it is required to set up the environment's directory within Power BI Desktop. This will use the designated environment and its libraries imported. We will then Get data using the Python Scripting feature by importing the Carmax CSV file using `Pandas` to read the CSV file. 
+
+**Code used:**
+
+    
+
 ![setting-up-python-with-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/getting-data-with%20python-in-Power%20BI.gif)
 
 
