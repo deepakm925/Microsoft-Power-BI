@@ -18,6 +18,7 @@ Here we will see how interactive and dynamic the Power BI application is by impo
 Here we will set up the Python Environment within Anaconda. Anaconda is very quick and efficient in creating and managing environments. The environment created will be called `power-bi`. We will then import the necessary libraries that will be used. For this project we will stick with `pandas`, `matplotlib`, and `seaborn`. 
 
 **Code for installation:**
+
      pip install pandas
      pip install -U matplotlib
      pip install seabon
