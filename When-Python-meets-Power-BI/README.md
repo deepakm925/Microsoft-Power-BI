@@ -7,10 +7,7 @@
 
 ## DESCRIPTION
 In this folder, we will integrate Power BI with the Object-oriented programming language Python, one of the most powerful and efficient programming languages used for Data Analysis, Science, and Machine Learning. 
-The objective here is to perform EDA while using both Python and Power BI to create a Power BI report. Finally, the data that will be used from the company called CarMax. 
-
-### Overview of the dataset
-The CarMax dataset is a CSV file, with at least one (1) million rows. The dataset is a web scrape of the CarMax website and details the daily inventory of cars between September 27, 2015, and June 14, 2017.
+The objective here is to perform EDA while using both Python and Power BI to create a Power BI report. 
 
 ## WHAT TO EXPECT...
 #### <ins>INTEGRATING A PYTHON SCRIPT TO LOAD, CLEAN, VISUALIZE DATA IN POWER BI DESKTOP</ins> *(Go to Project Page [here](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI))*
