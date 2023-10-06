@@ -12,11 +12,11 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 ## WHAT TO EXPECT...
 1. First, create a Python environment using Anaconda Navigator and install all the necessary Python libraries.
 2. Update the Python's Environment directory to work within Power BI Desktop then import and load the data from the Python script using Python commands.  
-3. Cleaning and Transforming the data in Power BI Desktop using the *Power QUery Editor* tool. (Implementation done in two parts for clarity!)
+3. Cleaning and Transforming the data in Power BI Desktop using the *Power QUery Editor* tool. (Implementation done in two parts for clarity)
 
 ## IMPLEMENTATION OF THE STEPS 
 
-### <ins> **STEP ONE: SETTING UP THE PYTHON ENVIORNMENT**</ins>
+### <ins> **STEP ONE: SETTING UP THE PYTHON ENVIRONMENT IN ANACONDA**</ins>
 
 Here we will set up the Python Environment within Anaconda. Anaconda is very quick and efficient in creating and managing environments. The environment created will be called `power-bi`. We will then import the necessary libraries that will be used. For this project, we will stick with `pandas`, `matplotlib`, and `seaborn`. 
 
@@ -30,7 +30,7 @@ Here we will set up the Python Environment within Anaconda. Anaconda is very qui
 ![Setting-up-env](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/setting-up-python%20environment.gif)
 
 
-### <ins> **STEP TWO: IMPORTING THE ENVIRONMENT AND DATASET INTO POWER BI **</ins>
+### <ins> STEP TWO: IMPORTING THE ENVIRONMENT AND DATASET INTO POWER BI </ins>
 
 Now that we have a specialized Python Environment created, it is required to set up the environment's directory within Power BI Desktop. This will use the designated environment and its libraries imported. We will then Get data using the Python Scripting feature by importing the Carmax CSV file using `Pandas` to read the CSV file. 
 
