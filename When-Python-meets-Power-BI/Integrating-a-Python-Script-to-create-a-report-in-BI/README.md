@@ -16,7 +16,7 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 
 ## IMPLEMENTATION OF THE STEPS 
 
-### <ins> **STEP ONE**</ins>
+### <ins> **STEP ONE: SETTING UP THE PYTHON ENVIORNMENT**</ins>
 
 Here we will set up the Python Environment within Anaconda. Anaconda is very quick and efficient in creating and managing environments. The environment created will be called `power-bi`. We will then import the necessary libraries that will be used. For this project, we will stick with `pandas`, `matplotlib`, and `seaborn`. 
 
@@ -30,7 +30,7 @@ Here we will set up the Python Environment within Anaconda. Anaconda is very qui
 ![Setting-up-env](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/setting-up-python%20environment.gif)
 
 
-### <ins> **STEP TWO**</ins>
+### <ins> **STEP TWO: IMPORTING THE ENVIRONMENT AND DATASET INTO POWER BI **</ins>
 
 Now that we have a specialized Python Environment created, it is required to set up the environment's directory within Power BI Desktop. This will use the designated environment and its libraries imported. We will then Get data using the Python Scripting feature by importing the Carmax CSV file using `Pandas` to read the CSV file. 
 
