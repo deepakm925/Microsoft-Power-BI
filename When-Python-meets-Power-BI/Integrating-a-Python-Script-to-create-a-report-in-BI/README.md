@@ -19,9 +19,9 @@ Here we will set up the Python Environment within Anaconda. Anaconda is very qui
 
 **Code for installation:**
 
-     pip install pandas
-     pip install -U matplotlib
-     pip install seabon
+    pip install pandas
+    pip install -U matplotlib
+    pip install seaborn
 
 **Graphical implementation of Step:**
 ![Setting-up-env](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/setting-up-python%20environment.gif)
