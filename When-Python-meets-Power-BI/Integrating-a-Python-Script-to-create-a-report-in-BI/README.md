@@ -49,7 +49,7 @@ Now that we have a specialized Python Environment created, it is required to set
 ![setting-up-python-with-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/getting-data-with%20python-in-Power%20BI.gif)
 
 
-### <ins> **STEP THREE: ClEANING AND TRANSFORMING**</ins>
+### <ins> **STEP THREE: CLEANING AND TRANSFORMING**</ins>
 In this step, we will get our hands dirty to clean up the dataset. *Power BI Query Editor* will clean and transform the dataset. The Data Wrangling/Cleaning step was broken into two parts for simplicity and clarity. 
 
 ##### Part 1
