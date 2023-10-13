@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/resources/heading-python.png"/>
 
-  # INTEGRATING A PYTHON SCRIPT, THEN LOADING, CLEANING, AND VISUALIZING DATA IN THE POWER BI DESKTOP
+ # INTEGRATING A PYTHON SCRIPT, THEN LOADING, CLEANING, AND VISUALIZING DATA IN THE POWER BI DESKTOP
 
-  ## DESCRIPTION
+## DESCRIPTION
 Here we will see how interactive and dynamic the Power BI application is by importing, cleaning, and visualizing data all by using Python and its respective libraries. 
 
 ### Overview of the dataset
@@ -13,6 +13,10 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 1. First, create a Python environment using Anaconda Navigator and install all the necessary Python libraries.
 2. Update the Python's Environment directory to work within Power BI Desktop then import and load the data from the Python script using Python commands.  
 3. Cleaning and Transforming the data in Power BI Desktop using the *Power QUery Editor* tool. (Implementation done in two parts for clarity)
+4. Using Python code in Power BI Desktop to generate the following visualizations:
+                                      a. Bar chart
+                                      b. Line chart
+                                      c. Scatter plot
 
 ## IMPLEMENTATION OF THE STEPS 
 
@@ -20,15 +24,14 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 
 Here we will set up the Python Environment within Anaconda. Anaconda is very quick and efficient in creating and managing environments. The environment created will be called `power-bi`. We will then import the necessary libraries that will be used. For this project, we will stick with `pandas`, `matplotlib`, and `seaborn`. 
 
+**Visual Implementation:**
+![Setting-up-env](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/setting-up-python%20environment.gif)
+
 **Code used:**
 
     pip install pandas
     pip install -U matplotlib
     pip install seaborn
-
-**Visual Implementation:**
-![Setting-up-env](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/setting-up-python%20environment.gif)
-
 
 ### <ins> STEP TWO: IMPORTING THE ENVIRONMENT AND DATASET INTO POWER BI </ins>
 
