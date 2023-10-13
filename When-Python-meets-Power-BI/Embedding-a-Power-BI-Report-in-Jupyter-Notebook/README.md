@@ -15,3 +15,8 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 2.  We will then open Jupyter-Notebook and import the necessary library installed
 3. Here we will import the authentication method from `powerbiclient` to grant access to our online PowerBI workspace
 4. Here, we will then setup the workspace and report id to identify the Power BI report located in our online Power BI workspace
+
+## IMPLEMENTATION OF THE STEPS 
+Here we will display the implementation phase in Steps with the use of GIFs and the help of code snippets. Let's begin!
+
+### <ins> **STEP ONE: SETTING UP THE PYTHON ENVIRONMENT IN ANACONDA**</ins>
