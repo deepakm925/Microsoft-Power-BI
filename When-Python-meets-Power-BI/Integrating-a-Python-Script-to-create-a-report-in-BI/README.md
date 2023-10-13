@@ -14,9 +14,9 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 2. Update the Python's Environment directory to work within Power BI Desktop then import and load the data from the Python script using Python commands.  
 3. Cleaning and Transforming the data in Power BI Desktop using the *Power QUery Editor* tool. (Implementation done in two parts for clarity)
 4. Using Python code in Power BI Desktop to generate the following visualizations:
-                                      a. Bar chart
-                                      b. Line chart
-                                      c. Scatter plot
+  - Bar chart
+  - Line chart
+  - Scatter plot
 
 ## IMPLEMENTATION OF THE STEPS 
 
@@ -27,7 +27,7 @@ Here we will set up the Python Environment within Anaconda. Anaconda is very qui
 **Visual Implementation:**
 ![Setting-up-env](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/setting-up-python%20environment.gif)
 
-**Code used:**
+**Code used:** 
 
     pip install pandas
     pip install -U matplotlib
@@ -36,6 +36,9 @@ Here we will set up the Python Environment within Anaconda. Anaconda is very qui
 ### <ins> STEP TWO: IMPORTING THE ENVIRONMENT AND DATASET INTO POWER BI </ins>
 
 Now that we have a specialized Python Environment created, it is required to set up the environment's directory within Power BI Desktop. This will use the designated environment and its libraries imported. We will then Get data using the Python Scripting feature by importing the Carmax CSV file using `Pandas` to read the CSV file. 
+
+**Visual Implementation:**
+![setting-up-python-with-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/getting-data-with%20python-in-Power%20BI.gif)
 
 **Code used:**
 
@@ -48,9 +51,6 @@ Now that we have a specialized Python Environment created, it is required to set
       data = "D:\Python-intergrated-with-BI\carmaxdata.csv"
       carmax_data = pd.read_csv(data)
     
-**Visual Implementation:**
-![setting-up-python-with-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/getting-data-with%20python-in-Power%20BI.gif)
-
 
 ### <ins> **STEP THREE: CLEANING AND TRANSFORMING**</ins>
 In this step, we will get our hands dirty to clean up the dataset. *Power BI Query Editor* will clean and transform the dataset. The Data Wrangling/Cleaning step was broken into two parts for simplicity and clarity. 
