@@ -19,6 +19,14 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 ## IMPLEMENTATION OF THE STEPS 
 Here we will display the implementation phase in Steps with the use of GIFs and the help of code snippets. Let's begin!
 
-### <ins> **STEP ONE: INSTALLING THE POWER BI CLIENT PACKAGE LIBRARY **</ins>
+### <ins> STEP ONE: INSTALLING THE POWER BI CLIENT PACKAGE LIBRARY </ins>
 First, we will first source the `powerbiclient` package which can be found [here](https://pypi.org/project/powerbiclient/). We then need to install it in our designated environment for *Power BI*. I already have a Power BI environment set up with Anaconda from a previous project called `python-bi-env` so I will just continue to work there. If you need a moment to install your environment I recommend to do it first. Finally as a Python Developer, I recommend setting up environments for easier management. 
 
+**Visual Implementation:**
+[powerbiclient](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/installing-powerbi-client.gif)
+
+Code Used:
+
+     pip install powerbiclient
+
+     
