@@ -68,6 +68,12 @@ In this step, we will get our hands dirty to clean up the dataset. *Power BI Que
 - the final step for the cleaning and transforming step is to check and drop null and empty values to maintain a consistent size of the dataset
 ![cleaning-py-bi-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-2.gif)
 
-**Steps Used in Power BI Query Editor:**
+**Cleaning and Transforming Applied Steps:**
 
 ![PowerBI-cleaning-steps](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/filtered-steps-cleaning.png)
+
+
+### <ins> **STEP FOUR: PLOTTING PYTHON VISUALIZATIONS IN POWER BI DESKTOP**</ins>
+Here in this step, we will plot visualizations using Python with the assistance of two most popular plotting libraries such as `Matplotlib` and `Seaborn`. All visualizations will be plotted in Power BI Desktop using the *PY-Visual` visualization. The visualizations that will be plotted are as follows:
+
+
