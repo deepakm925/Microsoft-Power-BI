@@ -80,7 +80,7 @@ In this step, we will get our hands dirty to clean up the dataset. *Power BI Que
 ### <ins> **STEP FOUR: PLOTTING PYTHON VISUALIZATIONS IN POWER BI DESKTOP**</ins>
 Here in this step, we will plot visualizations using Python with the assistance of two most popular plotting libraries such as `Matplotlib` and `Seaborn`. All visualizations will be plotted in Power BI Desktop using the *PY-Visual* visualization. The visualizations that will be plotted are as follows:
 
-##### Visualization 1- One-Dimensional (1D) Bar Chart
+#### Visualization 1- One-Dimensional (1D) Bar Chart
 Here we will use one one variable to plot the Top 30 Cities with CarMax Dealerships. We will use the `city` variable. Then we will create a new variable to give us the counts of the `city`.
 
 **Visual Implementation:**
@@ -111,3 +111,7 @@ Here we will use one one variable to plot the Top 30 Cities with CarMax Dealersh
     # Callling the plot method to display the visualization
     plt.show()
 
+#### Visualization 2- Scatter plot
+**Visual Implementation:**
+![scatterplot](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/viz-page-2.gif)
+**Code used:**
