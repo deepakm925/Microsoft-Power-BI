@@ -60,12 +60,16 @@ In this step, we will get our hands dirty to clean up the dataset. *Power BI Que
 - first, we will select the columns wanted for the analysis by selecting `Choose Columns`
 - second, we will view the `column quality` for missing, error, and null values.
 - thirdly, we will select all columns and drop the null and empty values in each
+
+
 ![cleaning-py-bi-1](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-1.gif)
 
 ##### Part 2
 - Here, we notice the region column has state and city together, we want to maintain the region column but split the city and state. Therefore we duplicate the region column and then split it by delimiter
 - then, once the columns are split we need to rename them `state` and `city` respectively
 - the final step for the cleaning and transforming step is to check and drop null and empty values to maintain a consistent size of the dataset
+
+
 ![cleaning-py-bi-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-2.gif)
 
 **Cleaning and Transforming Applied Steps:**
@@ -74,6 +78,38 @@ In this step, we will get our hands dirty to clean up the dataset. *Power BI Que
 
 
 ### <ins> **STEP FOUR: PLOTTING PYTHON VISUALIZATIONS IN POWER BI DESKTOP**</ins>
-Here in this step, we will plot visualizations using Python with the assistance of two most popular plotting libraries such as `Matplotlib` and `Seaborn`. All visualizations will be plotted in Power BI Desktop using the *PY-Visual` visualization. The visualizations that will be plotted are as follows:
+Here in this step, we will plot visualizations using Python with the assistance of two most popular plotting libraries such as `Matplotlib` and `Seaborn`. All visualizations will be plotted in Power BI Desktop using the *PY-Visual* visualization. The visualizations that will be plotted are as follows:
 
+##### Visualization 1- One-Dimensional (1D) Bar Chart
+Here we will use one one variable to plot the Top 30 Cities with CarMax Dealerships. We will use the `city` variable. Then we will create a new variable to give us the counts of the `city`.
+
+**Visual Implementation:**
+![1d-barchart](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/viz-page-1.gif)
+
+**Code used:**
+
+     
+     """ FIRST PAGE IN REPORT: Code for visualization Top Cities of CarMax Distribution.
+     Plots a Barchart!""" 
+
+    sb.set(style="whitegrid")
+
+    # Setting indices for the variable 'region' counts
+    popular_regions = dataset["city"].value_counts()
+    popular_regions_30_counts = popular_regions[:30]
+    indices = popular_regions_30_counts.index
+    top_30_regions = indices
+
+    # Setting up bar plot settings 
+    f, ax = plt.subplots(figsize=(8,9))
+    sb.set_color_codes("dark")
+    sb.barplot(x=popular_regions_30_counts, y=top_30_regions,
+            color="blue", orient='h')
+
+    ax.set(title='TOP 30 Cities of CarMax distributors',
+       ylabel="Cities Carmax Dealers ",
+       xlabel="Count of Cars sold by CarMax")
+       
+    # Callling the plot method to display the visualization
+    plt.show()
 
