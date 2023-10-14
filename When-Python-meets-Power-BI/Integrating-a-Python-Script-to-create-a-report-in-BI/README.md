@@ -67,3 +67,6 @@ In this step, we will get our hands dirty to clean up the dataset. *Power BI Que
 - then, once the columns are split we need to rename them `state` and `city` respectively
 - the final step for the cleaning and transforming step is to check and drop null and empty values to maintain a consistent size of the dataset
 ![cleaning-py-bi-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-2.gif)
+
+**Steps Used in Power BI Query Editor:**
+![PowerBI-cleaning-steps](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/filtered-steps-cleaning.png)
