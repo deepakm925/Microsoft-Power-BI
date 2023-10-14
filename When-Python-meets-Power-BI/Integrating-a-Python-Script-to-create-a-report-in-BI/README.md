@@ -14,9 +14,10 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
 2. Update the Python's Environment directory to work within Power BI Desktop then import and load the data from the Python script using Python commands.  
 3. Cleaning and Transforming the data in Power BI Desktop using the *Power QUery Editor* tool. (Implementation done in two parts for clarity)
 4. Using Python code in Power BI Desktop to generate the following visualizations:
-  - Bar chart
-  - Line chart
-  - Scatter plot
+    - One Dimensional (1D) Bar chart
+    - Line chart
+    - Scatter plot
+    - Two Dimensional (2D) Bar chart
 
 ## IMPLEMENTATION OF THE STEPS 
 
