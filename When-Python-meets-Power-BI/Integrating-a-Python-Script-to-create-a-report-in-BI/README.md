@@ -88,7 +88,7 @@ Here we will use one one variable to plot the Top 30 Cities with CarMax Dealersh
 **Code used:**
 
      """ FIRST PAGE IN REPORT: Code for visualization Top Cities of CarMax Distribution.
-     Plots a Barchart!""" 
+         Plots a Barchart!""" 
 
     sb.set(style="whitegrid")
 
@@ -115,3 +115,18 @@ Here we will use one one variable to plot the Top 30 Cities with CarMax Dealersh
 **Visual Implementation:**
 ![scatterplot](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/viz-page-2.gif)
 **Code used:**
+
+     """ SECOND PAGE IN REPORT: Code for Most Expensive Car prices over the Years. 
+        Plots a Scatterplot!""" 
+
+    # Finding the prices greater or equal to 48999
+    #Remember we do not use Magic Numbers the logic is applied to take half of the max price and use the data from there!
+    top_car_makes_overall = dataset[dataset["price"] >= 48999]
+  
+    # filtering to apply it to all the features we need in relation to price creating a new data frame 
+    dataset_filtered = top_car_makes_overall[['price', 'year', 'model', 'make' ]]
+    
+    sb.scatterplot(data=dataset_filtered, x="year", y="price", hue="make", palette="deep")
+    plt.title(' Comparing Most Expensive Car Make prices over the years)
+
+    plt.show()
