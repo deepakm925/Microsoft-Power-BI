@@ -69,4 +69,5 @@ In this step, we will get our hands dirty to clean up the dataset. *Power BI Que
 ![cleaning-py-bi-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/py-bi-cleaning-2.gif)
 
 **Steps Used in Power BI Query Editor:**
+
 ![PowerBI-cleaning-steps](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/filtered-steps-cleaning.png)
