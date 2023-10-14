@@ -85,10 +85,8 @@ Here we will use one one variable to plot the Top 30 Cities with CarMax Dealersh
 
 **Visual Implementation:**
 ![1d-barchart](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/viz-page-1.gif)
-
 **Code used:**
 
-     
      """ FIRST PAGE IN REPORT: Code for visualization Top Cities of CarMax Distribution.
      Plots a Barchart!""" 
 
