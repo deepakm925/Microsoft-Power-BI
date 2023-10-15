@@ -112,11 +112,12 @@ Here we will use one one variable to plot the Top 30 Cities with CarMax Dealersh
     plt.show()
 
 #### Visualization 2- Scatter plot
+Here a scatterplot from the Seaborn library will be used. But we will add a condition the price range of cars is vast so we will add a threshold of 49,000. How did we derive this figure we found the average prices of cars. The objective is to see which is the most expensive `make` of cars with the highest `price` over the years. 
 **Visual Implementation:**
 ![scatterplot](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/viz-page-2.gif)
-**Code used:**
+**Code used:** ([*Source-Code-here*](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/carmax_analysis_code.py))
 
-     """ SECOND PAGE IN REPORT: Code for Most Expensive Car prices over the Years. 
+     """ SECOND PAGE IN REPORT: Code for Most Expensive Car Prices over the Years. 
         Plots a Scatterplot!""" 
 
     # Finding the prices greater or equal to 48999
