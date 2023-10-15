@@ -131,3 +131,9 @@ Here a scatterplot from the Seaborn library will be used. But we will add a cond
     plt.title(' Comparing Most Expensive Car Make prices over the years)
 
     plt.show()
+
+#### Visualization 3- Line Chart
+
+**Visual Implementation:**
+![linechart](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/viz-page-3.gif)
+**Code used:** ([*Source-Code-here*](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/carmax_analysis_code.py))
