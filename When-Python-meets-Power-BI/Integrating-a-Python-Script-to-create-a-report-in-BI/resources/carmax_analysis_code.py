@@ -5,6 +5,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sb
 
+""" CODE FOR INSTALLATION"""
+pip install pandas
+pip install -U matplotlib
+pip install seaborn
+
+
 # Reading into the CSV file
 data = ("D:/Python-intergrated-with-BI/carmaxdata.csv")
 dataset = pd.read_csv(data)
