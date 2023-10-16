@@ -133,7 +133,20 @@ Here a scatterplot from the Seaborn library will be used. But we will add a cond
     plt.show()
 
 #### Visualization 3- Line Chart
+Here a Line plot will be used from the Seaborn Library. In this visualization, we will plot the prices of cars over the years and see how the prices have changed significantly over time. 
 
 **Visual Implementation:**
 ![linechart](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/viz-page-3.gif)
 **Code used:** ([*Source-Code-here*](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/carmax_analysis_code.py))
+
+     """ THIRD PAGE IN REPORT: Code for Revenue of Cars over the Years. 
+    Plots a Line Chart""" 
+
+    # Using a seaborn line plot
+    sb.lineplot(data=dataset, x="year", y="price", orient="x", 
+            size=30)
+
+    plt.title('Revenue of Cars over the years')
+    plt.show()
+
+#### Visualization 4- Two-Dimensional (2D) Barplot 
