@@ -27,8 +27,7 @@ Here we will set up the Python Environment within Anaconda. Anaconda is very qui
 
 **Visual Implementation:**
 ![Setting-up-env](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/setting-up-python%20environment.gif)
-
-**Code used:** 
+**Code used:** ([*Source-Code-here*](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/carmax_analysis_code.py))
 
     pip install pandas
     pip install -U matplotlib
@@ -40,8 +39,7 @@ Now that we have a specialized Python Environment created, it is required to set
 
 **Visual Implementation:**
 ![setting-up-python-with-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/getting-data-with%20python-in-Power%20BI.gif)
-
-**Code used:**
+**Code used:** ([*Source-Code-here*](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/carmax_analysis_code.py))
 
       # import all packages 
       import pandas as pd
@@ -85,7 +83,7 @@ Here we will use one one variable to plot the Top 30 Cities with CarMax Dealersh
 
 **Visual Implementation:**
 ![1d-barchart](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/viz-page-1.gif)
-**Code used:**
+**Code used:** ([*Source-Code-here*](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/carmax_analysis_code.py))
 
      """ FIRST PAGE IN REPORT: Code for visualization Top Cities of CarMax Distribution.
          Plots a Barchart!""" 
