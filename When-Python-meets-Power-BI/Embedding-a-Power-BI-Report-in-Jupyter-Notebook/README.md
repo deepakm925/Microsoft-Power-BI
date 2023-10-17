@@ -45,7 +45,9 @@ Then we will call a `authentication` class containing the method `DeviceLoginAut
 To do this optimally:
 - Open Power BI online and log in to Power BI online with the email and password. Keep the tab open. 
 - Run the code cell with the Authentication step in the Notebook. A security code will then be provided in the Notebook that must be inputted into the Microsoft security page provided in order to complete the security procedure.
-- Once the security code is entered correctly. Microsoft itself will notify you that the device has been authenticated and that the page can be closed. Return back to the Jupyter-Notebook window/tab to proceed.
+- Once the security code is entered correctly. Microsoft itself will notify you that the device has been authenticated and that the page can be closed. This confirms that the Power BI online service can now be accessed successfully.
+
+(NOTE: If you refresh the kernel of the Notebook this will need to be re done. Everytime this is done a new code will be provided for authentication for security purposes by Micrsoft)
 
   **Visual Implementation:**
   ![authenticating-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/authentication-bi-python.gif)
