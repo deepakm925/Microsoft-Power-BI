@@ -51,3 +51,7 @@ To do this optimally:
 
   **Visual Implementation:**
   ![authenticating-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/authentication-bi-python.gif)
+
+  Code Used:
+
+     # Insert code here
