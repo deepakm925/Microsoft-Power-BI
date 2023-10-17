@@ -70,7 +70,7 @@ In this step we will choose a report on the online Power BI platform that we wis
 1. First identify the report we want to open in a new tab in the browser.
 2. WE look at the URL tab and notice `groups` anf then `reports` we notice both titles have a series of characters in between their `/` Here is a visual example from my personal workspace:
 ![ids](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/report_id-workspace_id-report.png)
-3. We then copy the underlined  pieces which are the `groups` and `reports` along with their characters.
+3. We then copy the underlined  pieces which are the `groups` and `reports` along with their characters. (In my example above the text underlined in red is the workspace ID and blue is the report ID)
 4. We then create two new variables in our Python code called `workspace_id` and `report_id` and copy and paste the characters respectively to their variables.
 
 (FOR CLARIFICATION: `groups` is the workspace directory, however, in my example, I used `workspace_id`. )
