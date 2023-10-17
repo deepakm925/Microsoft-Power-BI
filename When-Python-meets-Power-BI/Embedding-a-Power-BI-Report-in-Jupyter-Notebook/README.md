@@ -31,5 +31,10 @@ Code Used:
 
 ### <ins> STEP TWO: OPENING JUPYTER-NOTEBOOK </ins>
 In this second step, we will open Jupyter-Notebook from the Anaconda Navigator. There are two ways to do this:
-- Install Jupyter Notebook from the Home screen of the Navigator
-- Install and open using the Anaconda Prompt or Shell 
+1. Method 1: *Install Jupyter Notebook from the Home screen of the Navigator*
+2. Method 2: *Install and open using the Anaconda Prompt or Shell* 
+
+I will be *using Method 2* for this project. 
+
+**Visual Implementation:**
+![opening-jupyter](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/opening-jupyter.gif)
