@@ -148,3 +148,15 @@ Here a Line plot will be used from the Seaborn Library. In this visualization, w
     plt.show()
 
 #### Visualization 4- Two-Dimensional (2D) Barplot 
+
+**Code used:** ([*Source-Code-here*](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/carmax_analysis_code.py))
+
+    """ FOURTH PAGE IN REPORT: Code for Average Price Make 
+    Plots a bar chart""" 
+
+    fig, ax = plt.subplots(figsize=(16,11))
+    g = sb.barplot(x='make', y='price', data=dataset, ci=None, ax=ax)
+    g.set_xticklabels(g.get_xticklabels(), rotation=90)
+    plt.title("Average Price of Car Make")
+    g.plot()
+    plt.show()
