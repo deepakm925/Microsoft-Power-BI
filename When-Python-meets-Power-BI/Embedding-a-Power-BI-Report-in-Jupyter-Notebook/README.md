@@ -75,4 +75,5 @@ In this step we will choose a report on the online Power BI platform that we wis
 
 (FOR CLARIFICATION: `groups` is the workspace directory, however, in my example, I used `workspace_id`. )
 
-
+**Visual Implementation:**
+![report_id-work_id](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/report-id.gif)
