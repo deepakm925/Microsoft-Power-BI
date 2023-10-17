@@ -54,4 +54,16 @@ To do this optimally:
 
   Code Used:
 
-     # Insert code here
+    """FIRST CODE CELL""" 
+    # import powerbiclient library and necessary BI components
+    from powerbiclient import Report, models
+
+    # Import the DeviceCodeLoginAuthentication class to authenticate against Power BI
+    from powerbiclient.authentication import DeviceCodeLoginAuthentication
+
+     """ SECOND CODE CELL""" 
+     # Initiate device authentication
+     device_auth = DeviceCodeLoginAuthentication()
+
+
+     
