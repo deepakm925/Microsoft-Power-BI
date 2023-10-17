@@ -41,4 +41,8 @@ I will be *using Method 2* for this project.
 
 ### <ins> STEP THREE: IMPORTING THE LIBRARY POWERBICLIENT AND AUTHENTICATING POWER BI ON LINE SERVICE </ins>
 Here we will first import the necessary library `powerbiclient` along with the methods we will be using which are `Report`, `models`. 
-Then we will call a `authentication` class containing the method `DeviceLoginAuthentication`. WHat this does is make Python request authentication to access the Power BI Online service.  
+Then we will call a `authentication` class containing the method `DeviceLoginAuthentication`. What this does is make Python request authentication to access the Power BI Online service workspaces. 
+To do this optimally:
+- Open Power BI online and log in to Power BI online with the email and password. Keep the tab open. 
+- Run the code cell with the Authentication step in the Notebook. A security code will then be provided in the Notebook that must be inputted into the Microsoft security page provided in order to complete the security procedure.
+- Once the security code is entered correctly. Microsoft itself will notify you that the device has been authenticated and that the page can be closed. Return back to the Jupyter-Notebook window/tab to proceed. 
