@@ -29,4 +29,7 @@ Code Used:
 
      pip install powerbiclient
 
-     
+### <ins> STEP TWO: OPENING JUPYTER-NOTEBOOK </ins>
+In this second step, we will open Jupyter-Notebook from the Anaconda Navigator. There are two ways to do this:
+- Install Jupyter Notebook from the Home screen of the Navigator
+- Install and open using the Anaconda Prompt or Shell 
