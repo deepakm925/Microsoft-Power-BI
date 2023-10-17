@@ -72,6 +72,7 @@ In this step we will choose a report on the online Power BI platform that we wis
 ![ids](https://app.powerbi.com/groups/cb079ad5-a70c-4649-9353-8a846dfc0034/reports/686f1faa-9b1c-4eae-94e7-97cfc3fd585d/ReportSection5f8a8613c53de834a788?experience=power-bi&clientSideAuth=0)
 3. We then copy the underlined  pieces which are the `groups` and `reports` along with their characters.
 4. We then create two new variables in our Python code called `workspace_id` and `report_id` and copy and paste the characters respectively to their variables.
-(NOTE: `groups` is the workspace directory, however, in my example I specially used `workspace_id`. But to add clarity to viewers they are the same thing)
+
+(FOR CLARIFICATION: `groups` is the workspace directory, however, in my example, I used `workspace_id`. )
 
 
