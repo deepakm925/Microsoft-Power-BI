@@ -39,4 +39,5 @@ I will be *using Method 2* for this project.
 **Visual Implementation:**
 ![opening-jupyter](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/opening-jupyter.gif)
 
-### <ins> STEP THREE: IMPORTING THE LIBRARY POWERBICLIENT AND ITS COMPONENTS </ins>
+### <ins> STEP THREE: IMPORTING THE LIBRARY POWERBICLIENT AND AUTHENTICATING POWER BI ON LINE SERVICE </ins>
+Here we will first import the necessary library `powerbiclient` along with the methods we will be using which are `Report`, `models` and `DeviceLoginAuthentication`. 
