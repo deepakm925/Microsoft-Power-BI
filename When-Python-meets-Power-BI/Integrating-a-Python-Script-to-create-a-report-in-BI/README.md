@@ -148,7 +148,9 @@ Here a Line plot will be used from the Seaborn Library. In this visualization, w
     plt.show()
 
 #### Visualization 4- Two-Dimensional (2D) Barplot 
-For our last visualization we will plot a bar chart but with two Dimensions. Whats the difference, here we use two different vairables and compare them to each other. For this visualization we will look at the average of the different `make` of car `prices`. Finally, the barchar will also be color coded to distinguish each `make`
+For our last visualization we will plot a bar chart but with two Dimensions. What's the difference, here we use two different vairables and compare them to each other. For this visualization we will look at the average of the different `make` of car `prices`. Finally, the bar chart will also be color-coded to distinguish each `make`. 
+**Visual Implementation:**
+![barchart-2d](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/viz-page-4.gif)
 **Code used:** ([*Source-Code-here*](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources/carmax_analysis_code.py))
 
     """ FOURTH PAGE IN REPORT: Code for Average Price Make 
