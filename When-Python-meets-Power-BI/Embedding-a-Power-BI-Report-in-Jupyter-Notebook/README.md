@@ -65,5 +65,13 @@ To do this optimally:
      # Initiate device authentication
      device_auth = DeviceCodeLoginAuthentication()
 
+### <ins> STEP FOUR: IDENTIFYING THE POWER BI REPORT BY REPORT ID AND WORKSPACE ID </ins>
+In this step we will choose a report on the online Power BI platform that we wish to use to embed into our JUpyter-Notebook file. To do this we need to:
+1. First identify the report we want to open in a new tab in the browser.
+2. WE look at the URL tab and notice `groups` anf then `reports` we notice both titles have a series of characters in between their `/` Here is a visual example from my personal workspace:
+![ids](https://app.powerbi.com/groups/cb079ad5-a70c-4649-9353-8a846dfc0034/reports/686f1faa-9b1c-4eae-94e7-97cfc3fd585d/ReportSection5f8a8613c53de834a788?experience=power-bi&clientSideAuth=0)
+3. We then copy the underlined  pieces which are the `groups` and `reports` along with their characters.
+4. We then create two new variables in our Python code called `workspace_id` and `report_id` and copy and paste the characters respectively to their variables.
+(NOTE: `groups` is the workspace directory, however, in my example I specially used `workspace_id`. But to add clarity to viewers they are the same thing)
 
-     
+
