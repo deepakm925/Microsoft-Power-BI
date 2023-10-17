@@ -2,7 +2,7 @@
   <img src="https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/resources/banner-3.png"/>
 
 
-# IMPORTING A POWER BI REPORT USING PYTHON, INTO A JUPYTER-NOTEBOOK
+# EMBEDDING A POWER BI REPORT IN JUPYPTER NOTEBOOK, USING PYTHON. 
 
 ## DESCRIPTION
 In this Project, we will continue to experiment with the dynamic data presentation capabilities of Python by embedding a Power BI report in a **Jupyter Notebook**. 
