@@ -100,5 +100,7 @@ In this final step, we can go ahead and load the Power BI report into our notebo
 - In the `REPORT` method we have to pass the `workspace_id`, `report_id`, and `device_auth`. Here, locate the report in the designated workspace and give Jupyter-Notebook access to open it.
 - Finally, we can run the variable `load_bi_report` with our method and its parameters. 
 
+**Visual Implementation:**
+![embed-report](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/embedding-report.gif)
 
- 
+
