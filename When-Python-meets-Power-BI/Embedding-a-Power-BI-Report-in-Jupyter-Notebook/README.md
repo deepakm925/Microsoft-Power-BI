@@ -87,7 +87,13 @@ In this step, we will choose a report on the online Power BI platform that we wi
 
 **Visual Implementation:**
 ![report_id-work_id](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/report-id.gif)
+ Code Used:
 
+    # Setting up the group or workspace ID
+     workspace_id = "cb079ad5-a70c-4649-9353-8a846dfc0034"
+    # Setting up the report's ID
+     report_id = "686f1faa-9b1c-4eae-94e7-97cfc3fd585d"
+     
 ### <ins> STEP FIVE: SETTING UP THE REPORT  </ins>
 In this final step, we can go ahead and load the Power BI report into our notebook. 
 - First, we will call the `REPORT` method from the `powerbiclient` library. We then assign this to a variable called `load_bi_report`
