@@ -94,7 +94,7 @@ In this step, we will choose a report on the online Power BI platform that we wi
     # Setting up the report's ID
      report_id = "686f1faa-9b1c-4eae-94e7-97cfc3fd585d"
      
-### <ins> STEP FIVE: SETTING UP THE REPORT  </ins>
+### <ins> STEP FIVE: SETTING UP METHOD TO EMBED THE REPORT  </ins>
 In this final step, we can go ahead and load the Power BI report into our notebook. 
 - First, we will call the `REPORT` method from the `powerbiclient` library. We then assign this to a variable called `load_bi_report`
 - In the `REPORT` method we have to pass the `workspace_id`, `report_id`, and `device_auth`. Here, locate the report in the designated workspace and give Jupyter-Notebook access to open it.
