@@ -57,7 +57,7 @@ To do this optimally:
 - Run the code cell with the Authentication step in the Notebook. A security code will then be provided in the Notebook that must be inputted into the Microsoft security page provided in order to complete the security procedure.
 - Once the security code is entered correctly. Microsoft itself will notify you that the device has been authenticated and that the page can be closed. This confirms that the Power BI online service can now be accessed successfully.
 
-(NOTE: If you refresh the kernel of the Notebook this will need to be re done. Everytime this is done a new code will be provided for authentication for security purposes by Micrsoft)
+(NOTE: If you refresh the kernel of the Notebook this will need to be redone. Everytime this is done a new code will be provided for authentication for security purposes by Micrsoft)
 
   **Visual Implementation:**
   ![authenticating-bi](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/authentication-bi-python.gif)
@@ -76,9 +76,9 @@ To do this optimally:
      device_auth = DeviceCodeLoginAuthentication()
 
 ### <ins> STEP FOUR: IDENTIFYING THE POWER BI REPORT BY REPORT ID AND WORKSPACE ID </ins>
-In this step we will choose a report on the online Power BI platform that we wish to use to embed into our JUpyter-Notebook file. To do this we need to:
+In this step, we will choose a report on the online Power BI platform that we wish to use to embed into our JUpyter-Notebook file. To do this we need to:
 1. First identify the report we want to open in a new tab in the browser.
-2. WE look at the URL tab and notice `groups` anf then `reports` we notice both titles have a series of characters in between their `/` Here is a visual example from my personal workspace:
+2. WE look at the URL tab and notice `groups` and then `reports` we notice both titles have a series of characters in between their `/` Here is a visual example from my personal workspace:
 ![ids](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/report_id-workspace_id-report.png)
 3. We then copy the underlined  pieces which are the `groups` and `reports` along with their characters. (In my example above the text underlined in red is the workspace ID and blue is the report ID)
 4. We then create two new variables in our Python code called `workspace_id` and `report_id` and copy and paste the characters respectively to their variables.
@@ -89,3 +89,10 @@ In this step we will choose a report on the online Power BI platform that we wis
 ![report_id-work_id](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/report-id.gif)
 
 ### <ins> STEP FIVE: SETTING UP THE REPORT  </ins>
+In this final step, we can go ahead and load the Power BI report into our notebook. 
+- First, we will call the `REPORT` method from the `powerbiclient` library. We then assign this to a variable called `load_bi_report`
+- In the `REPORT` method we have to pass the `workspace_id`, `report_id`, and `device_auth`. Here, locate the report in the designated workspace and give Jupyter-Notebook access to open it.
+- Finally, we can run the variable `load_bi_report` with our method and its parameters. 
+
+
+ 
