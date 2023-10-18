@@ -98,7 +98,7 @@ In this step, we will choose a report on the online Power BI platform that we wi
 In this final step, we can go ahead and load the Power BI report into our notebook. 
 - First, we will call the `REPORT` method from the `powerbiclient` library. We then assign this to a variable called `load_bi_report`
 - In the `REPORT` method we have to pass the `workspace_id`, `report_id`, and `device_auth`. Here, locate the report in the designated workspace and give Jupyter-Notebook access to open it.
-- Finally, we can run the variable `load_bi_report` with our method and its parameters. 
+- Finally, we can run the variable `load_bi_report` and load our intended report, with the different pages, visualizations, and also the interactive slicer settings work in JUpyter-Notebook too!
 
 **Visual Implementation:**
 ![embed-report](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/embedding-report.gif)
