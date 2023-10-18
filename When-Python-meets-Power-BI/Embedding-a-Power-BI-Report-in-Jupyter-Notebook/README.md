@@ -11,7 +11,7 @@ In this Project, we will continue to experiment with the dynamic data presentati
 The CarMax dataset is a CSV file, with at least one (1) million rows. The dataset is a web scrape of the CarMax website and details the daily inventory of cars between September 27, 2015, and June 14, 2017.
 
 ## WHAT TO EXPECT...
-1. First we will install the necessary Python library required which is  `powerbiclient`. We will then open Jupyter-Notebook
+1. First we will install the necessary Python library which is  `powerbiclient`. We will then open Jupyter-Notebook
 2.  We will then open Jupyter-Notebook and import the necessary library installed
 3. Here we will import the authentication method from `powerbiclient` to grant access to our online PowerBI workspace
 4. Here, we will then setup the workspace and report id to identify the Power BI report located in our online Power BI workspace
@@ -87,3 +87,5 @@ In this step we will choose a report on the online Power BI platform that we wis
 
 **Visual Implementation:**
 ![report_id-work_id](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/report-id.gif)
+
+### <ins> STEP FIVE: SETTING UP THE REPORT  </ins>
