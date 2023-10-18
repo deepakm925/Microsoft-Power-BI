@@ -102,5 +102,12 @@ In this final step, we can go ahead and load the Power BI report into our notebo
 
 **Visual Implementation:**
 ![embed-report](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/embedding-report.gif)
+ Code Used:
+
+     # The REPORT method is called and the workspace_id and report_id along with the device_aith are plugged in respectively 
+     load_bi_report = Report(group_id=workspace_id, report_id=report_id, auth=device_auth)
+
+     # Displaying the report
+     load_bi_report
 
 
