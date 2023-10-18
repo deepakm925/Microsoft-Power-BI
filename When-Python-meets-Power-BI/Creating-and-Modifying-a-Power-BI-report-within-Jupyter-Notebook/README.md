@@ -14,7 +14,12 @@ For this Project, a famous and well-known dataset will be used called the **IMDB
 ## WHAT TO EXPECT...
 To get as much detail in as possible without over-cramming all the content on one page, it was decided to split this project into FOUR(4) PARTS. This will allow readers to experience each step in an organized manner. The parts will be as follows:
 
-### <ins> PART 1-IMPORTING-AND-WRANGLING-DATA-WITH-PYTHON </ins> 
+### <ins> PART 1 : IMPORTING AND WRANGLING DATA WITH PYTHON </ins> 
 (**[CLICK HERE-TO-GO TO PART-1](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python)**)
 
 Here we will use Python code and the necessary libraries to import, clean, and wrangle the dataset. 
+
+### <ins> PART 2 : USING PYTHON TO CREATE A POWER BI REPORT </ins> 
+(**[CLICK HERE-TO-GO TO PART-2](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-2-Using-Python-to-Create-a-Power-BI-Report)**)
+Here we will continue using Python to create the Power BI report instance from the cleaned dataset. 
+
