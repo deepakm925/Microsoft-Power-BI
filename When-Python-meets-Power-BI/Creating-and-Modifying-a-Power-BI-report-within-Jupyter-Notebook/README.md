@@ -16,4 +16,5 @@ To get as much detail in as possible without over-cramming all the content on on
 
 ### <ins> PART 1-IMPORTING-AND-WRANGLING-DATA-WITH-PYTHON </ins> 
 **[CLICK HERE-TO-GO TO PART-1](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python)**
-- Here we will use Python code to import, clean, and wrangle the dataset 
+
+Here we will use Python code and the necessary libraries to import, clean, and wrangle the dataset. 
