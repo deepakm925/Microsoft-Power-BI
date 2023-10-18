@@ -39,6 +39,16 @@ I will be *using Method 2* for this project.
 **Visual Implementation:**
 ![opening-jupyter](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Embedding-a-Power-BI-Report-in-Jupyter-Notebook/resources/opening-jupyter.gif)
 
+Code Used:
+
+     # IF YOU NEED TO INSTALL JUPYTER-NOTEBOOK RUN THIS COMMAND FIRST IN ANACONDA COMMAND PROMPT
+     conda install -c anaconda jupyter
+
+     # IF YOU HAVE JUPYTER NOTEBOOK ALREADY INSTALLED JUST USE THE FOLLOWING COMMAND TO OPEN IT
+     jupyter-notebook
+
+  **NOTE**: In newer versions of Anaconda Notebook the Jupyter-Notebook can be installed from the home screen from the Anaconda Naviagtor!
+
 ### <ins> STEP THREE: IMPORTING THE LIBRARY POWERBICLIENT AND AUTHENTICATING POWER BI ON LINE SERVICE </ins>
 Here we will first import the necessary library `powerbiclient` along with the methods we will be using which are `Report`, `models`. 
 Then we will call a `authentication` class containing the method `DeviceLoginAuthentication`. What this does is make Python request authentication to access the Power BI Online service workspaces. 
