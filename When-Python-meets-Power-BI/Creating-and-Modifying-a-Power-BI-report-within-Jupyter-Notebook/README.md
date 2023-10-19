@@ -24,3 +24,5 @@ Here we will use Python code and the necessary libraries to import, clean, and w
 
 Here we will continue using Python to create the Power BI report instance from the cleaned dataset. 
 
+### <ins> PART 3 : MODIFYING THE REPORT USING BI TOOLS </ins> 
+(**[CLICK HERE-TO-GO TO PART-3](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-3-Modifying-the-Power-BI-report**)
