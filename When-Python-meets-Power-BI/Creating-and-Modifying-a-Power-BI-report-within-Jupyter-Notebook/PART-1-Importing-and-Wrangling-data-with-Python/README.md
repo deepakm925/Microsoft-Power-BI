@@ -43,4 +43,5 @@ Code Used
      # display
      movie_data.head()
 
-      
+### <ins> STEP TWO: IDENTIFYING AND DROPPING MISSING VALUES </ins>
+
