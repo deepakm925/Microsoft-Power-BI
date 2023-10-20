@@ -63,3 +63,12 @@ Code Used
 
 ### <ins> STEP THREE: DROPPING UNWANTED COLUMNS </ins>
 Here, in this step we will remove any unnecessary columns that will not be used for our analysis. To do this the `pandas` library has a method `df.drop()` that drops columns. 
+
+**Visual Implementation:**
+![unwanted-columns](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python/resources/deleted-unwanted-columns.gif)
+
+Code Used
+
+     # Dropping unwanted columns
+     movie_data_cleaner_2 = movie_data_cleaner_1.drop(['homepage', 'tagline', 'keywords', 'overview'], axis=1)
+
