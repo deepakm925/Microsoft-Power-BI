@@ -28,3 +28,8 @@ Here we will continue using Python to create the Power BI report instance from t
 (**[CLICK HERE-TO-GO TO PART-3](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-3-Modifying-the-Power-BI-report)**)
 
 Here we will modify the Power BI report's visualizations and their settings. 
+
+### <ins> PART 4 : PUBLISHING THE REPORT TO POWER BI ONLINE AND CREATING A DASHBOARD </ins> 
+(**[CLICK HERE-TO-GO TO PART-4](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-4-Saving-Publishing-and-creating-a-Dashboard)**)
+
+Here we will Save and Publish the modified report and then create a Dashboard to display the findings of the analysis. 
