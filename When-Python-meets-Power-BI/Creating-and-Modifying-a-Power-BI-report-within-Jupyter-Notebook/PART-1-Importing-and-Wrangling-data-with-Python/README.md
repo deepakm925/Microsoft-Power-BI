@@ -61,3 +61,5 @@ Code Used
      # Checking if process worked
      movie_data_cleaner_1.isnull().sum()
 
+### <ins> STEP THREE: DROPPING UNWANTED COLUMNS </ins>
+Here, in this step we will remove any unnecessary columns that will not be used for our analysis. To do this the `pandas` library has a method `df.drop()` that drops columns. 
