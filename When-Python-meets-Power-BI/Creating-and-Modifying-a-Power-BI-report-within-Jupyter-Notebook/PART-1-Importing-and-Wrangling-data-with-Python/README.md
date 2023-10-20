@@ -16,3 +16,7 @@ This is **PART 1** of the Project **# CREATING AND MODIFYING A POWER BI REPORT U
 5. Load a clean version of the dataset
 
 
+## IMPLEMENTATION OF THE STEPS 
+Here we will display the implementation phase in Steps with the use of GIFs and the help of code snippets. Let's begin!
+
+### <ins> STEP ONE: INSTALLING LIBRARIES AND LOADING THE DATASET</ins>
