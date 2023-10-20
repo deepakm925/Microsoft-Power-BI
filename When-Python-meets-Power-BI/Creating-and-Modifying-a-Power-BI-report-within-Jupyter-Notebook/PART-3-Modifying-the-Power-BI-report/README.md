@@ -45,9 +45,10 @@ The visualizations that will be edited and modified here are:
 
 ### <ins> STEP THREE MODIFYING AND EDITING THE POWER BI REPORT WITH BI TOOLS CONTINUED </ins>
 Similar, to STEP 2 above we will continue modifying the visualizations. IN this step the visualizations that were modified are:
+
 - A *Multi-row Card*
-= A *Pie-Chart*
-- Scatter chart with a Play Axis
+- A *Pie-Chart*
+- *Scatter chart* with a Play Axis
 
 **Visual Implementation**
 ![modify-part-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-3-Modifying-the-Power-BI-report/resources/modifying-report-2.gif)
