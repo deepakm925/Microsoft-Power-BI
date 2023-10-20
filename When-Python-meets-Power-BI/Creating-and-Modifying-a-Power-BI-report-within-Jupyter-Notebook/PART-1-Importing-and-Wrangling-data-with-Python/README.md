@@ -29,7 +29,6 @@ Then, we will use the `pandas` method `pd.read_csv()` to read into and load the 
 **Visual Implementation:**
 ![import-and-load](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python/resources/importing-and-loading-dataset.gif)
 
-
 Code Used
 
      """ First Code Cell """ 
@@ -44,7 +43,21 @@ Code Used
      movie_data.head()
 
 ### <ins> STEP TWO: IDENTIFYING AND DROPPING MISSING VALUES </ins>
-Here in this step we will dientify the missing values and null values in the dataset. We can use this by using a `pandas` method called `isnull().sum()`. Then, we can remove the missing/null values using the `drop.na()` method which is also from the `pandas` library. 
+Here in this step, we will identify the missing values and null values in the dataset. We can use this by using a `pandas` method called `isnull().sum()`. Then, we can remove the missing/null values using the `drop.na()` method which is also from the `pandas` library. 
 
 **Visual Implementation:**
 ![identifying-missing-valyes](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python/resources/identifying-dropping-missing-values.gif)
+
+Code Used
+
+     """ This code cell checks missing values""" 
+     # Identifying missing values
+     movie_data.isnull().sum()
+
+     """ This code cell removes the missing values """
+     # Apply dropna from Pandas to drop the values from existing columns
+     movie_data_cleaner_1 = movie_data.dropna()
+
+     # Checking if process worked
+     movie_data_cleaner_1.isnull().sum()
+
