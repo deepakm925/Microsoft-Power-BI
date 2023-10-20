@@ -46,4 +46,5 @@ Code Used
 ### <ins> STEP TWO: IDENTIFYING AND DROPPING MISSING VALUES </ins>
 Here in this step we will dientify the missing values and null values in the dataset. We can use this by using a `pandas` method called `isnull().sum()`. Then, we can remove the missing/null values using the `drop.na()` method which is also from the `pandas` library. 
 
-
+**Visual Implementation:**
+![identifying-missing-valyes](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python/resources/identifying-dropping-missing-values.gif)
