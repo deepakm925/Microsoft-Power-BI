@@ -78,10 +78,28 @@ Here, in this step we will do two things:
 
    ![categorical](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python/resources/sample-categorical.png)
    
-To fix this we use the `|` deliminator method along with `lambda` which splits worded data. This will split and take the first word in the series. WE will aplly it on the three worded columns mentioned above. 
+To fix this we use the `|` delimator method along with `lambda` which splits worded data. This will split and take the first word in the series. WE will aplly it on the three worded columns mentioned above. 
 
-3. Secondly, we notice we have a `release_year` column. However, it is in `int64`. We want the data to remain periodically, so we will use the `pandas` method `PeriodIndex` which will always keep the years in periodical format.
+2. Secondly, we notice we have a `release_year` column. However, it is in `int64`. We want the data to remain periodically, so we will use the `pandas` method `PeriodIndex` which will always keep the years in periodical format.
 
 **Visual Implementation:**
 ![edit-columns](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python/resources/editing-columns.gif)
 
+Code Used
+
+     """ IN this cell we use lambda with the delimator method to split the worded columns 
+     # Cleaning cast
+     movie_data_cleaner_2.loc[:,'cast'] = movie_data_cleaner_2.loc[:,'cast'].apply(lambda x: x.split('|')[0])
+
+     # Cleaning genres
+     movie_data_cleaner_2.loc[:,'genres'] = movie_data_cleaner_2.loc[:,'genres'].apply(lambda x: x.split('|')[0])
+
+     # Cleaning production companies
+     movie_data_cleaner_2.loc[:,'production_companies'] = movie_data_cleaner_2.loc[:,'production_companies'].apply(lambda x: x.split('|')[0])
+
+     """ In this code cell pandas PeriodIndex will be applied to the relase_year column to maintain the year format indexing 
+     # Using PeriodIndex
+     movie_data_cleaner_2['release_year'] = pd.PeriodIndex(movie_data_cleaner_2['release_year'], freq='A')
+
+     
+    
