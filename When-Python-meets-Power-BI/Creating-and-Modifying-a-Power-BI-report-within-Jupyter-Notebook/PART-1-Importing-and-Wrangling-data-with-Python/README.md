@@ -101,5 +101,17 @@ Code Used
      # Using PeriodIndex
      movie_data_cleaner_2['release_year'] = pd.PeriodIndex(movie_data_cleaner_2['release_year'], freq='A')
 
+
+### <ins> STEP FIVE:  FINAL CLEANED DATASET</ins>
+Here we will run tests and output our cleaned dataset and assign it a new variable. 
+
+**Visual Implementation:**
+![final-cleaned-dataset](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python/resources/final-cleaned-dataset.gif)
+
+Code Used
+
+      # Our cleaned version of the dataset 
+      
+      movie_df_final = movie_data_cleaner_2
+      movie_df_final.head()
      
-    
