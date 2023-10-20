@@ -78,7 +78,7 @@ Here, in this step we will do two things:
 
    ![categorical](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-1-Importing-and-Wrangling-data-with-Python/resources/sample-categorical.png)
    
-To fix this we use the `|` delimator method along with `lambda` which splits worded data. This will split and take the first word in the series. WE will aplly it on the three worded columns mentioned above. 
+     To fix this we use the `|` delimator method along with `lambda` which splits worded data. This will split and take the first word in the series. WE will aplly it on the three worded columns mentioned above. 
 
 2. Secondly, we notice we have a `release_year` column. However, it is in `int64`. We want the data to remain periodically, so we will use the `pandas` method `PeriodIndex` which will always keep the years in periodical format.
 
