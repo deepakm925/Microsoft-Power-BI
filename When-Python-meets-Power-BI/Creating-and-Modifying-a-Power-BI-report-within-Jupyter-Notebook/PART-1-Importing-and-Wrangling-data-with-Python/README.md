@@ -9,7 +9,7 @@ This is **PART 1** of the Project **# CREATING AND MODIFYING A POWER BI REPORT U
 
 
 ## WHAT TO EXPECT...
-1. First, install the necessary libraries and import the dataset
+1. First, import the necessary libraries and load the dataset
 2. Then begin our data cleaning step by analyzing the missing/null values and dropping them
 3. Dropping unwanted columns that are not adequate for the analysis
 4. Editing columns such as transforming, splitting, and changing data type
@@ -20,3 +20,8 @@ This is **PART 1** of the Project **# CREATING AND MODIFYING A POWER BI REPORT U
 Here we will display the implementation phase in Steps with the use of GIFs and the help of code snippets. Let's begin!
 
 ### <ins> STEP ONE: INSTALLING LIBRARIES AND LOADING THE DATASET</ins>
+In this first step, we will open Jupyter-Notebook and install the necessary libraries. The libaries that will be used are:
+- `pandas`
+- `powerbiclient`
+
+Then, we will use the `pandas` method `pd.read_csv()` to read into the TMDB movies dataset file `movie_data`
