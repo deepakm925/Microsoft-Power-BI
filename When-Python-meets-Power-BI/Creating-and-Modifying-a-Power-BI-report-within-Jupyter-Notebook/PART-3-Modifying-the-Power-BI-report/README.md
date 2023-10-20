@@ -33,11 +33,22 @@ Code Used
       modified_report
 
 ### <ins> STEP TWO: MODIFYING AND EDITING THE POWER BI REPORT WITH BI TOOLS  </ins>
-Here we notice the firt Power BI report instance we created already produced default visualizations. However, we have our own agenda for the analysis and we wish to edit modify and change the report to personalize our analysis. This step and the next step after this STEP 3 will deal with modifications and editing the Power BI report using Power BI tools and BI visualizations!
+Here we notice the first Power BI report instance we created already produced default visualizations. However, we have our own agenda for the analysis and we wish to edit modify and change the report to personalize our analysis. This step and the next step after this STEP 3 will deal with modifications and editing the Power BI report using Power BI tools and BI visualizations!
 The visualizations that will be edited and modified here are:
 - First visualization we will change it and use a *Slicer-list* using the `genres`. WE are making the `genres` the main list and if any visualization with the `genres` will automatically sync the slicer settings
 - Second visualization we will use a *Clustered Bar Chart* to plot
 - Third visualization, we will use a Tree Map
 
 **Visual Implementation**
+![modifying-part-1](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-3-Modifying-the-Power-BI-report/resources/modifying-report-1.gif)
+
+
+### <ins> STEP THREE MODIFYING AND EDITING THE POWER BI REPORT WITH BI TOOLS CONTINUED </ins>
+Similar, to STEP 2 above we will continue modifying the visualizations. IN this step the visualizations that were modified are:
+- A *Multi-row Card*
+= A *Pie-Chart*
+- Scatter chart with a Play Axis
+
+**Visual Implementation**
+![modify-part-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-3-Modifying-the-Power-BI-report/resources/modifying-report-2.gif)
 
