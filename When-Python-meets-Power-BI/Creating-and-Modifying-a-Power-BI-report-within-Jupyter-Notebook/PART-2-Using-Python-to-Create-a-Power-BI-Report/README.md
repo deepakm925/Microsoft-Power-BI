@@ -30,5 +30,19 @@ Code Used:
       # Initiate device authentication
       device_auth = DeviceCodeLoginAuthentication()
 
-### <ins> STEP TWO: CREATE THE REPORT /ins>
+### <ins> STEP TWO: CREATE THE REPORT </ins>
 In this step will use another method from the `powerbiclient` library called `QuickVisualize`. Within this method, we will pass our cleaned dataset variable called `movie_df_final` created from STEP ONE. When run, this creates a new instance of a report with default visualizations created from `QUICK VISUALIZE`.
+
+**Visual Implementation**
+![creating-bi-report](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-2-Using-Python-to-Create-a-Power-BI-Report/resources/powerbi-authentication.gif)
+
+Code Used
+      
+      """ IN this code cell we implement the QUickVisualize method""" 
+      # Create the power bi report instance 
+      create_bi_report = QuickVisualize(get_dataset_config(movie_df_final), auth=device_auth)
+
+      # Load report 
+      create_bi_report
+
+
