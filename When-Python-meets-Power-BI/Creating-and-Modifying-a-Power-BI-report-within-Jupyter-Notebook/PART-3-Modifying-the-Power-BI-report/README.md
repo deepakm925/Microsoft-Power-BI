@@ -53,3 +53,9 @@ Similar, to STEP 2 above we will continue modifying the visualizations. IN this 
 **Visual Implementation**
 ![modify-part-2](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-3-Modifying-the-Power-BI-report/resources/modifying-report-2.gif)
 
+### <ins> STEP FOUR: TESTING THE MODIFIED REPORT </ins>
+Here, we will see the final outcome of our modified report. It has been personalized according to the analysis. What we did was filter the `genres` as a slicer. In Power BI desktop we can automatically sync slicers but, here is where we see a limitation with the integration with Power BI and Python, some Power BI components do not work in a Python environment. However, we still managed to sync the slicers manually by adding `genre `to each visualization. This way we create a filter based on `genres` and we can see different outcomes based on the `genres` selected such as `cast` `movie_title`, `director` and `production companies`. 
+
+**Visual Implementation**
+![testing-modified](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-3-Modifying-the-Power-BI-report/resources/testing-modified-report.gif)
+
