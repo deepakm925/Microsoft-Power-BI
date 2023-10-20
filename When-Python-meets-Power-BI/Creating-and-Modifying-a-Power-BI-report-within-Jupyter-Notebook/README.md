@@ -13,6 +13,7 @@ For this Project, a famous and well-known dataset will be used called the **IMDB
 
 ## WHAT TO EXPECT...
 To get as much detail in as possible without over-cramming all the content on one page, it was decided to split this project into FOUR(4) PARTS. This will allow readers to experience each step in an organized manner. Each *PART* will contain a breakdown of the methods used, code snippets and a GIF showing the visual implementation of the steps. 
+
 The parts will be as follows:
 
 ### <ins> PART 1 : IMPORTING AND WRANGLING DATA WITH PYTHON </ins> 
