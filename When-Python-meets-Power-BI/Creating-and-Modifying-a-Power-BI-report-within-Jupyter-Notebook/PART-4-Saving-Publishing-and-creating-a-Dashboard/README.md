@@ -6,8 +6,9 @@
 
 
 ## DESCRIPTION
-This is **PART 4** of the Project **CREATING AND MODIFYING A POWER BI REPORT USING PYTHON AND POWER BI TOOLS, IN JUPYTER-NOTEBOOK**. In PART-3 we personalized the Power BI report by modifying it's contents. 
-In this part of the project, we will publish the report to our Power BI Online service and from there we will create an interactive Dashboard to present our findings. 
+This is **PART 4** of the Project **CREATING AND MODIFYING A POWER BI REPORT USING PYTHON AND POWER BI TOOLS, IN JUPYTER-NOTEBOOK**. This will be the final PART of the project. 
+In PART 3 we personalized the Power BI report by modifying its contents. 
+In this part of the project, we will publish the report to our Power BI Online service, and from there we will create an interactive Dashboard to present our findings. 
 
 ## WHAT TO EXPECT...
 
@@ -15,5 +16,7 @@ In this part of the project, we will publish the report to our Power BI Online s
 ## IMPLEMENTATION OF THE STEPS 
 Here we will display the implementation phase in Steps with the use of GIFs and the help of code snippets. Let's begin!
 
-### <ins> STEP ONE: </ins>
+### <ins> STEP ONE: SAVING AND PUBLISHING THE REPORT TO POWER BI ONLINE</ins>
+In this step, we will Publish the Power BI Report to the Power BI Online Service. IN PART 2 we already created the authenticated link to give the Jupyter-Notebook to access the credentials of the online service. So all we need to do here is just Select Save, title our report, and select the workspace. 
 
+**Visual Implementation**
