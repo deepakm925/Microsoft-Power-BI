@@ -27,3 +27,10 @@ In this second step, we will go ahead and create a Dashboard. This will help for
 
 **Visual Implementation**
 ![create-dashboard](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-4-Saving-Publishing-and-creating-a-Dashboard/resources/creating-dashboard.gif)
+
+### <ins> STEP THREE: USING THE Q&A FEATURE ON THE DASHBOARD  </ins>
+Here in this step, now that we have a functional Dashboard, we can ask to interact with it by asking some questions about the analysis. This is helpful to information not being displayed on the Dashboard and if we wish to make a quick addition we can. Here we will ask two questions using the Q&A feature and pin the results to our existing Dashboard. 
+
+**Visual Implementation**
+![Using-Q&A-feature](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-4-Saving-Publishing-and-creating-a-Dashboard/resources/q%26a-dashboard.gif)
+
