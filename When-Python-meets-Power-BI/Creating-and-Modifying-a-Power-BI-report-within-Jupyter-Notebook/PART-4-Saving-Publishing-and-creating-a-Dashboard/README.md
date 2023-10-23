@@ -40,3 +40,9 @@ Now that we have added the last bits of analysis and findings in Step 3, we wish
 **Visual Implementation**
 ![adding-title-dash](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-4-Saving-Publishing-and-creating-a-Dashboard/resources/add-title-dash.gif)
 
+### <ins> STEP FIVE: DISPLAY THE COMPLETED DASHBOARD </ins>
+This is the final step of the Project. From starting in Jupyter Notebook to creating a report, we now have our end project which is an Interactive Dashboard displaying the IMDB movie findings. WE can interact with the slicers and filters in the visualizations to see different aspects of the findings. Enjoy!
+
+**Visual Implementation**
+![completed-dashboard](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-4-Saving-Publishing-and-creating-a-Dashboard/resources/dashboard-complete.gif)
+
