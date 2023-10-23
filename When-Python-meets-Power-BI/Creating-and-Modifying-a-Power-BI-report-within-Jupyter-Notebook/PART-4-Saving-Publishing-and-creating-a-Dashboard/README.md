@@ -34,3 +34,9 @@ Here in this step, now that we have a functional Dashboard, we can ask to intera
 **Visual Implementation**
 ![Using-Q&A-feature](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-4-Saving-Publishing-and-creating-a-Dashboard/resources/q%26a-dashboard.gif)
 
+### <ins> STEP FOUR: ADD A TITLE TO THE DASHBOARD  </ins>
+Now that we have added the last bits of analysis and findings in Step 3, we wish to add a title to give our Dashboard an identity so that the viewers can know what kind of data to expect. 
+
+**Visual Implementation**
+![adding-title-dash](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-4-Saving-Publishing-and-creating-a-Dashboard/resources/add-title-dash.gif)
+
