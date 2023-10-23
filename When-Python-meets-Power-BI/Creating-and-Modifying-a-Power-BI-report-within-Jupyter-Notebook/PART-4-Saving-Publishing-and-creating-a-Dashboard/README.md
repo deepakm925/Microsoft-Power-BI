@@ -23,3 +23,7 @@ In this step, we will Publish the Power BI Report to the Power BI Online Service
 ![publishing-report](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-4-Saving-Publishing-and-creating-a-Dashboard/resources/publishing-bi-online.gif)
 
 ### <ins> STEP TWO: CREATING THE DASHBOARD </ins>
+In this second step, we will go ahead and create a Dashboard. This will help for presentation purposes and will appeal to the viewers to focus on our findings. We will need to pin the visualizations(s) from our report and create a new Dashboard instance in the workspace. 
+
+**Visual Implementation**
+![create-dashboard](https://github.com/deepakm925/Power-BI/blob/main/When-Python-meets-Power-BI/Creating-and-Modifying-a-Power-BI-report-within-Jupyter-Notebook/PART-4-Saving-Publishing-and-creating-a-Dashboard/resources/creating-dashboard.gif)
