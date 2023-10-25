@@ -20,6 +20,7 @@ The CarMax dataset is a CSV file, with at least one (1) million rows. The datase
     - Two Dimensional (2D) Bar chart
 
 ## IMPLEMENTATION OF THE STEPS 
+Here we will display the implementation phase in Steps with the use of GIFs and the help of code snippets. All *Source Code* snippets and the *PBIX* file in this demonstration can be found here in the [Resources-Folder](https://github.com/deepakm925/Power-BI/tree/main/When-Python-meets-Power-BI/Integrating-a-Python-Script-to-create-a-report-in-BI/resources) Let's begin!
 
 ### <ins> **STEP ONE: SETTING UP THE PYTHON ENVIRONMENT IN ANACONDA**</ins>
 
