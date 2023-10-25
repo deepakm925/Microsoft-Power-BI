@@ -163,3 +163,6 @@ For our last visualization we will plot a bar chart but with two Dimensions. Wha
     plt.title("Average Price of Car Make")
     g.plot()
     plt.show()
+
+### CONCLUSIONS, COMMENTS AND LIMITATIONS 
+
